@@ -1,1 +1,1 @@
-include ':viewpager', ':recyclerview'
+include ':viewpager', ':recyclerview', ':daggerscopes'
