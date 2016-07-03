@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidKata.iml" filepath="$PROJECT_DIR$/AndroidKata.iml" />
       <module fileurl="file://$PROJECT_DIR$/daggerscopes/daggerscopes.iml" filepath="$PROJECT_DIR$/daggerscopes/daggerscopes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentmanager/fragmentmanager.iml" filepath="$PROJECT_DIR$/fragmentmanager/fragmentmanager.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
     </modules>
